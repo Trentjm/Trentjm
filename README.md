@@ -1,10 +1,4 @@
-## ✌🏽 Welcome Friend
-
----
-
-![snake svg](https://github.com/Trentjm/Trentjm/blob/output/github-contribution-grid-snake.svg)
-
----
+# ✌🏽 Welcome Friend
 
 **Software Engineering student & Locomotive Engineer**
 
@@ -12,6 +6,10 @@ Welcome to my Github! I'm currently studying towards a BA majoring in Software e
 
 ---
 
+![snake svg](https://github.com/Trentjm/Trentjm/blob/output/github-contribution-grid-snake.svg)
+
+
+---
 ## <c> 🖥️ Languages and tools <c>
 
 <br>
