@@ -1,6 +1,4 @@
-# ✌🏽 Welcome Friend
-
-**Software Engineering student & Locomotive Engineer**
+# ✌🏽 Hello Friend
 
 Welcome to my Github! I'm currently studying towards a BA majoring in Software engineering in Auckland New Zealand. Whilst my journey in Software engineering is just begining, I have always been drawn to computers and how they work. My passions in the computing field include (but are not limited to) cyber security and machine learning.
 
