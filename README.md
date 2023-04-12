@@ -1,7 +1,7 @@
 # ✌🏽 Hello Friend
 
 <p align="center">
-![ZenRoomGIF](https://github.com/Trentjm/Trentjm/blob/main/Images/Zen.gif)
+<img src="https://github.com/Trentjm/Trentjm/blob/main/Images/Zen.gif"
 </p>
 
 ---
