@@ -20,5 +20,3 @@ Welcome to my Github! I'm currently studying towards a BA majoring in Software e
 <img src="https://github.com/Trentjm/Trentjm/blob/main/Images/Zen.gif"
 </p>
 
-<br>
-<p style="text-align: center;"> ### Me and my dog! ### </p>
