@@ -1,12 +1,10 @@
 # ✌🏽 Hello Friend
 
-<p align="center">
-<img src="https://github.com/Trentjm/Trentjm/blob/main/Images/Zen.gif"
-</p>
+![snake svg](https://github.com/Trentjm/Trentjm/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-Welcome to my Github! I'm currently studying towards a BA majoring in Software engineering in Auckland New Zealand. Whilst my journey in Software engineering is just begining, I have always been drawn to computers and how they work. My passions in the computing field include (but are not limited to) cyber security and machine learning.
+Welcome to my Github! I'm currently studying towards a BA majoring in Software engineering in Auckland New Zealand. Whilst my journey in Software engineering is just begining, I have always been drawn to computers and how they work. My passions in the computing field include (but is not limited to) cyber security and machine learning.
 
 ---
 
@@ -18,4 +16,9 @@ Welcome to my Github! I'm currently studying towards a BA majoring in Software e
 
 ---
 
-![snake svg](https://github.com/Trentjm/Trentjm/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="C:\Users\trent\Downloads\Zen.gif"
+</p>
+
+<br>
+<p style="text-align: center;"> ### Me and my dog! ### </p>
