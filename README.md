@@ -17,7 +17,7 @@ Welcome to my Github! I'm currently studying towards a BA majoring in Software e
 ---
 
 <p align="center">
-<img src="C:\Users\trent\Downloads\Zen.gif"
+<img src="https://github.com/Trentjm/Trentjm/blob/main/Images/Zen.gif"
 </p>
 
 <br>
