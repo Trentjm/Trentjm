@@ -15,8 +15,14 @@ Welcome to my Github! I'm currently studying towards a BA majoring in Software e
 [![My Skills](https://skillicons.dev/icons?i=linux,cpp,swift,git,html,css)](https://skillicons.dev)
 
 ---
+## <c> 📚 What I am currently learning <c>
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,javascript,python,react)](https://skillicons.dev)
+
+---
 
 <p align="center">
 <img src="https://github.com/Trentjm/Trentjm/blob/main/Images/Zen.gif"
 </p>
-
