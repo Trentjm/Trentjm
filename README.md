@@ -12,7 +12,7 @@ Welcome to my Github! I'm currently studying towards a BA majoring in Software e
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,cpp,swift,git,html,css,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,cpp,c,swift,git,html,css,r)](https://skillicons.dev)
 
 ---
 ## <c> 📚 What I am currently learning <c>
