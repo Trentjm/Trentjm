@@ -3,7 +3,7 @@
 
 ---
 
-Welcome to my Github! I'm currently studying towards a BA majoring in Software engineering in Auckland New Zealand. Whilst my journey in Software engineering is just begining, I have always been drawn to computers and how they work. My passions in the computing field include (but is not limited to) cyber security and machine learning.
+Welcome to my Github! I'm currently studying towards a Bachelor's Degree of Information Science, majoring in Software engineering in Auckland New Zealand. Whilst my journey in Software engineering is just begining, I have always been drawn to computers and how they work. My passions in the computing field include (but is not limited to) cyber security and machine learning.
 
 ---
 
