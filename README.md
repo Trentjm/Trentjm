@@ -1,6 +1,5 @@
 # ✌🏽 Hello Friend
 
-![snake svg](https://github.com/Trentjm/Trentjm/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
