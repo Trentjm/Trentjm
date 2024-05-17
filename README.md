@@ -18,7 +18,7 @@ Welcome to my Github! I'm currently studying towards a Bachelor's Degree of Info
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,javascript,python,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,c#)](https://skillicons.dev)
 
 ---
 
