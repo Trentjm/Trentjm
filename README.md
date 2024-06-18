@@ -11,14 +11,14 @@ Welcome to my Github! I'm currently studying towards a Bachelor's Degree of Info
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,cpp,c,swift,git,html,css,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,cpp,c,java,swift,git,html,css,r)](https://skillicons.dev)
 
 ---
 ## <c> 📚 What I am currently learning <c>
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
 
 ---
 
